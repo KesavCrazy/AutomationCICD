@@ -15,7 +15,7 @@ import ThoughtWorks.SeleniumMarAir.Utility.BaseClass;
 public class HomePage extends BaseClass{
 	@Test
 	
-//test	
+//test1	
 public void HomePageValidation() throws Exception{
 		
 		new HomePageConstants(driver, test).ReportLink();
